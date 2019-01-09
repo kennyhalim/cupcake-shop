@@ -1,0 +1,50 @@
+ul {
+  padding:400;
+  margin:400;
+  list-style-position: inside;
+}
+
+h1.flashy {
+  color:#8470e0;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size:50px;
+}
+
+p.flashy {
+  font-size:20px;
+}
+
+ul li {
+  font-style:italic;
+  font-size:18px;
+}
+
+.best {
+  font-weight: bold;
+}
+
+img {
+  height:200px;
+  width:200px;
+}
+
+p.best {
+  text-align: center;
+}
+
+p.cupcake {
+  text-align: center;
+}
+
+h2.flashy {
+  text-align: center;
+  color:#8470e0;
+}
+
+.contact {
+  text-align: center;
+}
+body {
+  background-color: #f3f7b7;
+}
